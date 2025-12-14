@@ -62,7 +62,7 @@ Important data handling:
 - The outlier ratio parameter was tested at 0.1 and 0.2 to adjust strictness. 
 
 ---
-
+### Outputs (example):
 
 <img width="1403" height="139" alt="image" src="https://github.com/user-attachments/assets/aa88d1e6-a0d4-4d6e-a113-ee58a5199962" />
 
