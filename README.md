@@ -62,6 +62,8 @@ Important data handling:
 - The outlier ratio parameter was tested at 0.1 and 0.2 to adjust strictness. 
 
 ---
+<img width="644" height="665" alt="image" src="https://github.com/user-attachments/assets/3fc70c13-658f-4d76-a596-7b53415dd471" />
+
 
 ## 3. Task B — Game Outcome Prediction (Supervised)
 
