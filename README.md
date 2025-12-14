@@ -64,6 +64,9 @@ Important data handling:
 ---
 <img width="644" height="665" alt="image" src="https://github.com/user-attachments/assets/3fc70c13-658f-4d76-a596-7b53415dd471" />
 
+<img width="858" height="554" alt="image" src="https://github.com/user-attachments/assets/11463d15-3eb0-46d2-86a8-eea6b04f7ede" />
+
+
 
 ## 3. Task B — Game Outcome Prediction (Supervised)
 
