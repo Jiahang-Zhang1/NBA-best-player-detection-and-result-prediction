@@ -90,9 +90,12 @@ Data processing:
 ### Environment
 - Python 3.x
 - Recommended packages: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
+- Google Colab
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
+
+
 
 
 
