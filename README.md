@@ -7,6 +7,9 @@ NBA best player detection and result prediction
 2）**Name: Minghao Wang**, NYU Student ID: 
 
 
+1) **Outstanding player mining** via outlier detection + clustering  
+2) **Game outcome prediction** via supervised classification  
+
 ---
 
 # NBA Statistics ML Project
